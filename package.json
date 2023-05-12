@@ -1,0 +1,16 @@
+{
+  "name": "gestor-tareas",
+  "version": "1.0.0",
+  "description": "Administrador de tareas poendientes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Valenzuela",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "uuid": "^9.0.0"
+  }
+}
